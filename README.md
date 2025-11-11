@@ -149,11 +149,13 @@ npm run build
 
 ---
 
-## 📸 Screenshots (Optional)
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=CREAMY+BUBBLES+Preview" alt="App Preview" />
-</p>
+📸 Project Preview
+<p align="center"> <img src="https://github.com/vasanth-boyez/CREAMY-BUBBLES/blob/main/preview/HOME.png" alt="Home Page" width="800"/><br/> <b>🏠 Home Page</b> </p>
+<p align="center"> <img src="https://github.com/vasanth-boyez/CREAMY-BUBBLES/blob/main/preview/30%25%20DISCOUNT.png" alt="30% Discount Page" width="800"/><br/> <b>🎉 30% Discount Offer</b> </p> 
+<p align="center"> <img src="https://github.com/vasanth-boyez/CREAMY-BUBBLES/blob/main/preview/50%25%20DISCOUNT.png" alt="50% Discount Page" width="800"/><br/> <b>💥 50% Discount Offer</b> </p> 
+<p align="center"> <img src="https://github.com/vasanth-boyez/CREAMY-BUBBLES/blob/main/preview/ADD%20PRODUCT.png" alt="Add Product Page" width="800"/><br/> <b>➕ Add Product</b> </p>
+<p align="center"> <img src="https://github.com/vasanth-boyez/CREAMY-BUBBLES/blob/main/preview/MANAGE.png" alt="Manage Products Page" width="800"/><br/> <b>⚙️ Manage Products</b> </p> 
+<p align="center"> <img src="https://github.com/vasanth-boyez/CREAMY-BUBBLES/blob/main/preview/CART.png" alt="Cart Page" width="800"/><br/> <b>🛒 Shopping Cart</b> </p>
 
 ---
 
